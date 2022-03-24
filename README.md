@@ -16,11 +16,11 @@ _Data Science Lead_ <br>
 
 As pioneers in mining and metals, Rio Tinto produces materials essential to human progress.
 
-Being the founding member of first data science team inside the Rio Tinto, I lead client-facing data science projects for different Rio Tinto entities that go from mining exploration to aluminum process plant, from iron ore to borax acid, from vessel ETA forecast to assets' predictive maintenance. At the same time, I provide mentorship and coaching to the graduate, intern and senior data scientists on technical skill. As  further developping the data science discipline applying critical and design thinking in data science project.
+Being the founding member of first data science team inside the Rio Tinto, I lead client-facing data science projects for different Rio Tinto entities that go from mining exploration to aluminum process plant, from iron ore to borax acid, from vessel ETA forecast to assets' predictive maintenance. At the same time, I provide mentorship and coaching to the graduate, intern and senior data scientists on technical skill. As  further developing the data science discipline applying critical and design thinking in data science project.
 
 ❯ **Senior Data Scientist @ [SSENSE](https://www.ssense.com/)** _(Oct. 2016 - Oct. 2018)_
 
-SSENSE is a leading international luxuary e-commerce. It possesses a huge amount of data. 
+SSENSE is a leading international luxury e-commerce. It possesses a huge amount of data. 
 
 As a data scientist, I brought my knowledge of statistics, machine learning into business. I have successfully engaged in various projects, such as optimization of sizing ratio, optimization of price markdown, retrieving insights of customers, design and evaluation on A/B test experiment, building product recommendation engine, brands clustering based on graph theory, as well as applying advanced deep learning on product similarity based on descriptions and images.
 
@@ -72,7 +72,7 @@ Top-level company management competition which involves the design, manufacture 
 
 **English**: Professional Working Proficiency <br>
 **French**: Professional Working Proficiency <br>
-**Madarin**: Native
+**Mandarin**: Native
 <br>
 
 ## 👨‍🎓 Education
