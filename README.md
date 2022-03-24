@@ -6,7 +6,7 @@ _Data Science Lead_ <br>
 
 ## 👨‍💼 Working Experience
 
-❯ **[Rio Tinto](http://www.riotinto.com/)** _(Oct. 2018 - Present)_
+❯ Data Science Lead @ **[Rio Tinto](http://www.riotinto.com/)** _(Oct. 2018 - Present)_
 <br>
 **Principal Data Scientist** _(Apr. 2021 - Present)_ <br>
 **Specialist Data Science**  _(Oct. 2018 - Apr. 2021)_ <br>
