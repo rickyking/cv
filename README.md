@@ -1,3 +1,6 @@
+<link rel="stylesheet" media="print" href="print.css" />
+
+
 # Yi Jin
 
 _Data Science Lead_ <br>
@@ -13,9 +16,7 @@ _Data Science Lead_ <br>
 
 As pioneers in mining and metals, Rio Tinto produces materials essential to human progress.
 
-Being the founding member of first data science team inside the Rio Tinto, I lead client-facing data science projects for different Rio Tinto entities that go from mining exploration to aluminum process plant, from iron ore to borax acid, from vessel ETA forecast to assets' predictive maintenance. 
-
-At the same time, I provide mentorship and coaching to the graduate, intern and senior data scientists on technical skill. As  further developping the data science discipline applying critical and design thinking in data science project.
+Being the founding member of first data science team inside the Rio Tinto, I lead client-facing data science projects for different Rio Tinto entities that go from mining exploration to aluminum process plant, from iron ore to borax acid, from vessel ETA forecast to assets' predictive maintenance. At the same time, I provide mentorship and coaching to the graduate, intern and senior data scientists on technical skill. As  further developping the data science discipline applying critical and design thinking in data science project.
 
 ❯ **Senior Data Scientist @ [SSENSE](https://www.ssense.com/)** _(Oct. 2016 - Oct. 2018)_
 
@@ -37,7 +38,7 @@ Business Problems: Sales Territory Optimization, HR Churn Analysis, Text informa
 Provide statistics consulting to the clients in different industries. Conduct analysis and build dashboard.
 
 
-## Other Experience
+## 🤖 Other Experience
 
 _This section only accounts for work done outside of full-time job._
 
@@ -45,7 +46,7 @@ _This section only accounts for work done outside of full-time job._
 Founder of Trading Logic, built upon the philosophy of trade with logic not emotion.
 
 Tech Stack: Python, R-Shiny, SQL
-<br><br>
+<br>
 
 **Technical Analyst / Reviewer** @ [Synced](https://www.linkedin.com/company/synced-technology-co--机器之心/) _(May 2017 - Dec. 2018)_ <br>
 As a part-time reviewer, I analyze some interesting machine learning papers applied in different industries.
@@ -72,7 +73,7 @@ Top-level company management competition which involves the design, manufacture 
 **English**: Professional Working Proficiency <br>
 **French**: Professional Working Proficiency <br>
 **Madarin**: Native
-<br><br>
+<br>
 
 ## 👨‍🎓 Education
 

@@ -1,0 +1,32 @@
+/* print.css */
+header, footer, aside, nav, form, iframe, .menu, .hero, .adslot, .body.header, .body.footer {
+    display: none;
+  }
+
+/* target all pages */
+@page {
+    size: auto;  margin: 0mm;
+  }
+
+@print {
+    @page :footer {
+        display: none
+    }
+  
+    @page :header {
+        display: none
+    }
+}
+
+h2{
+    font-size:14px;
+    font-weight:bold;
+    margin-top:15px;
+    margin-bottom:15px;
+}
+p{
+    font-size:12px;
+    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+    line-height: 0.5cm;
+    margin-bottom: 10px;
+}
