@@ -3,9 +3,9 @@
 
 # Yi Jin
 
-_Data Science Lead_ <br>
+_Data Science Lead_ with ~10 years' experience<br> 
 
-[Email](mailto:hello@jinyi.me) / [Website](https://jinyi.me/) / [LinkedIn](https://www.linkedin.com/in/yjin88/) / [GitHub](https://github.com/rickyking)
+[✉️ Email](mailto:hello@jinyi.me) / [🧭 Website](https://jinyi.me/) / [🏢 LinkedIn](https://www.linkedin.com/in/yjin88/) / [🧰 GitHub](https://github.com/rickyking)
 
 ## 👨‍💼 Working Experience
 
@@ -77,12 +77,12 @@ Top-level company management competition which involves the design, manufacture 
 
 ## 👨‍🎓 Education
 
-**Master** in Data Science and Decision Science<br>
-[University of Paris 1](https://formations.pantheonsorbonne.fr/fr/catalogue-des-formations/master-M/master-econometrie-statistiques-KBURDRPJ/master-parcours-traitement-de-l-information-et-data-science-en-entreprise-tide-formation-initiale-et-apprentissage-KBUREJV4.html) - Paris, France _(2011-2012)_ <br>
+**Master** in Data Science and Statistical Modelling<br>
+[University of Paris 1 Pathéon Sorbonne](https://formations.pantheonsorbonne.fr/fr/catalogue-des-formations/master-M/master-econometrie-statistiques-KBURDRPJ/master-parcours-traitement-de-l-information-et-data-science-en-entreprise-tide-formation-initiale-et-apprentissage-KBUREJV4.html) - Paris, France _(2012)_ <br>
 
 **Master (Dual Degree)** in Applied Economics<br>
 [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/) - Paris, France _(2011-2012)_ <br>
 
 **Bachelor** in Economics and Management<br>
-[University of Paris 1](https://www.pantheonsorbonne.fr) - Paris, France _(2007-2010)_
+[University of Paris 1 Pathéon Sorbonne](https://www.pantheonsorbonne.fr) - Paris, France _(2010)_
 
