@@ -5,7 +5,7 @@
 
 _Data Science Lead_ with ~10 years' experience<br> 
 
-[✉️ Email](mailto:hello@jinyi.me) / [🧭 Website](https://jinyi.me/) / [🏢 LinkedIn](https://www.linkedin.com/in/yjin88/) / [🧰 GitHub](https://github.com/rickyking)
+[🧭 Home](https://jinyi.me/) | [📝 Memo](https://memo.jinyi.me) | [🏢 LinkedIn](https://www.linkedin.com/in/yjin88/) | [🧰 GitHub](https://github.com/rickyking) | [✉️ Email](mailto:hello@jinyi.me)
 
 ## 👨‍💼 Working Experience
 
