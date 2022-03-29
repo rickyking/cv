@@ -1,11 +1,11 @@
 <link rel="stylesheet" media="print" href="print.css" />
-
+[🧭 Home](https://jinyi.me/) | [📝 Memo](https://memo.jinyi.me) | [🏢 LinkedIn](https://www.linkedin.com/in/yjin88/) | [🧰 GitHub](https://github.com/rickyking) | [✉️ Email](mailto:hello@jinyi.me)
 
 # Yi Jin
 
 _Data Science Lead_ with ~10 years' experience<br> 
 
-[🧭 Home](https://jinyi.me/) | [📝 Memo](https://memo.jinyi.me) | [🏢 LinkedIn](https://www.linkedin.com/in/yjin88/) | [🧰 GitHub](https://github.com/rickyking) | [✉️ Email](mailto:hello@jinyi.me)
+
 
 ## 👨‍💼 Working Experience
 
